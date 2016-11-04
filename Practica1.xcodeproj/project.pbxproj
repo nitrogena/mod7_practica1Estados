@@ -12,6 +12,42 @@
 		785F74B81D9F0F9D0096291F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 785F74B61D9F0F9D0096291F /* Main.storyboard */; };
 		785F74BA1D9F0F9D0096291F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 785F74B91D9F0F9D0096291F /* Assets.xcassets */; };
 		785F74BD1D9F0F9D0096291F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 785F74BB1D9F0F9D0096291F /* LaunchScreen.storyboard */; };
+		785F74E81D9F106E0096291F /* aguascalientes.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74C61D9F106E0096291F /* aguascalientes.png */; };
+		785F74E91D9F106E0096291F /* baja california.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74C71D9F106E0096291F /* baja california.png */; };
+		785F74EA1D9F106E0096291F /* baja california sur.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74C81D9F106E0096291F /* baja california sur.png */; };
+		785F74EB1D9F106E0096291F /* campeche.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74C91D9F106E0096291F /* campeche.png */; };
+		785F74EC1D9F106E0096291F /* chiapas.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74CA1D9F106E0096291F /* chiapas.png */; };
+		785F74ED1D9F106E0096291F /* chihuahua.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74CB1D9F106E0096291F /* chihuahua.png */; };
+		785F74EE1D9F106E0096291F /* coahuila de zaragoza.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74CC1D9F106E0096291F /* coahuila de zaragoza.png */; };
+		785F74EF1D9F106E0096291F /* colima.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74CD1D9F106E0096291F /* colima.png */; };
+		785F74F01D9F106E0096291F /* distrito federal.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74CE1D9F106E0096291F /* distrito federal.png */; };
+		785F74F11D9F106E0096291F /* durango.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74CF1D9F106E0096291F /* durango.png */; };
+		785F74F21D9F106E0096291F /* estado de mexico.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74D01D9F106E0096291F /* estado de mexico.png */; };
+		785F74F31D9F106E0096291F /* guanajuato.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74D11D9F106E0096291F /* guanajuato.png */; };
+		785F74F41D9F106E0096291F /* guerrero.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74D21D9F106E0096291F /* guerrero.png */; };
+		785F74F51D9F106E0096291F /* hidalgo.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74D31D9F106E0096291F /* hidalgo.png */; };
+		785F74F61D9F106E0096291F /* jalisco.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74D41D9F106E0096291F /* jalisco.png */; };
+		785F74F71D9F106E0096291F /* mapa.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74D51D9F106E0096291F /* mapa.png */; };
+		785F74F81D9F106E0096291F /* michoacan de ocampo.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74D61D9F106E0096291F /* michoacan de ocampo.png */; };
+		785F74F91D9F106E0096291F /* morelos.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74D71D9F106E0096291F /* morelos.png */; };
+		785F74FA1D9F106E0096291F /* nayarit.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74D81D9F106E0096291F /* nayarit.png */; };
+		785F74FB1D9F106E0096291F /* nuevo leon.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74D91D9F106E0096291F /* nuevo leon.png */; };
+		785F74FC1D9F106E0096291F /* oaxaca.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74DA1D9F106E0096291F /* oaxaca.png */; };
+		785F74FD1D9F106E0096291F /* puebla.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74DB1D9F106E0096291F /* puebla.png */; };
+		785F74FE1D9F106E0096291F /* queretaro.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74DC1D9F106E0096291F /* queretaro.png */; };
+		785F74FF1D9F106E0096291F /* quintana roo.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74DD1D9F106E0096291F /* quintana roo.png */; };
+		785F75001D9F106E0096291F /* san luis potosi.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74DE1D9F106E0096291F /* san luis potosi.png */; };
+		785F75011D9F106E0096291F /* sinaloa.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74DF1D9F106E0096291F /* sinaloa.png */; };
+		785F75021D9F106E0096291F /* sonora.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74E01D9F106E0096291F /* sonora.png */; };
+		785F75031D9F106E0096291F /* tabasco.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74E11D9F106E0096291F /* tabasco.png */; };
+		785F75041D9F106E0096291F /* tamaulipas.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74E21D9F106E0096291F /* tamaulipas.png */; };
+		785F75051D9F106E0096291F /* tlaxcala.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74E31D9F106E0096291F /* tlaxcala.png */; };
+		785F75061D9F106E0096291F /* veracruz de ignacio de la llave.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74E41D9F106E0096291F /* veracruz de ignacio de la llave.png */; };
+		785F75071D9F106E0096291F /* yucatan.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74E51D9F106E0096291F /* yucatan.png */; };
+		785F75081D9F106E0096291F /* zacatecas.png in Resources */ = {isa = PBXBuildFile; fileRef = 785F74E61D9F106E0096291F /* zacatecas.png */; };
+		785F750A1D9F10D70096291F /* edo-mun.plist in Resources */ = {isa = PBXBuildFile; fileRef = 785F75091D9F10D70096291F /* edo-mun.plist */; };
+		785F750C1D9F23BB0096291F /* ListaEstados.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785F750B1D9F23BB0096291F /* ListaEstados.swift */; };
+		785F750E1D9F3E920096291F /* DetalleEstado.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785F750D1D9F3E920096291F /* DetalleEstado.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +58,42 @@
 		785F74B91D9F0F9D0096291F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		785F74BC1D9F0F9D0096291F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		785F74BE1D9F0F9D0096291F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		785F74C61D9F106E0096291F /* aguascalientes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aguascalientes.png; sourceTree = "<group>"; };
+		785F74C71D9F106E0096291F /* baja california.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "baja california.png"; sourceTree = "<group>"; };
+		785F74C81D9F106E0096291F /* baja california sur.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "baja california sur.png"; sourceTree = "<group>"; };
+		785F74C91D9F106E0096291F /* campeche.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = campeche.png; sourceTree = "<group>"; };
+		785F74CA1D9F106E0096291F /* chiapas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chiapas.png; sourceTree = "<group>"; };
+		785F74CB1D9F106E0096291F /* chihuahua.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chihuahua.png; sourceTree = "<group>"; };
+		785F74CC1D9F106E0096291F /* coahuila de zaragoza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "coahuila de zaragoza.png"; sourceTree = "<group>"; };
+		785F74CD1D9F106E0096291F /* colima.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = colima.png; sourceTree = "<group>"; };
+		785F74CE1D9F106E0096291F /* distrito federal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "distrito federal.png"; sourceTree = "<group>"; };
+		785F74CF1D9F106E0096291F /* durango.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = durango.png; sourceTree = "<group>"; };
+		785F74D01D9F106E0096291F /* estado de mexico.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "estado de mexico.png"; sourceTree = "<group>"; };
+		785F74D11D9F106E0096291F /* guanajuato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = guanajuato.png; sourceTree = "<group>"; };
+		785F74D21D9F106E0096291F /* guerrero.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = guerrero.png; sourceTree = "<group>"; };
+		785F74D31D9F106E0096291F /* hidalgo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hidalgo.png; sourceTree = "<group>"; };
+		785F74D41D9F106E0096291F /* jalisco.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jalisco.png; sourceTree = "<group>"; };
+		785F74D51D9F106E0096291F /* mapa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mapa.png; sourceTree = "<group>"; };
+		785F74D61D9F106E0096291F /* michoacan de ocampo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "michoacan de ocampo.png"; sourceTree = "<group>"; };
+		785F74D71D9F106E0096291F /* morelos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = morelos.png; sourceTree = "<group>"; };
+		785F74D81D9F106E0096291F /* nayarit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nayarit.png; sourceTree = "<group>"; };
+		785F74D91D9F106E0096291F /* nuevo leon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nuevo leon.png"; sourceTree = "<group>"; };
+		785F74DA1D9F106E0096291F /* oaxaca.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = oaxaca.png; sourceTree = "<group>"; };
+		785F74DB1D9F106E0096291F /* puebla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = puebla.png; sourceTree = "<group>"; };
+		785F74DC1D9F106E0096291F /* queretaro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = queretaro.png; sourceTree = "<group>"; };
+		785F74DD1D9F106E0096291F /* quintana roo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "quintana roo.png"; sourceTree = "<group>"; };
+		785F74DE1D9F106E0096291F /* san luis potosi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "san luis potosi.png"; sourceTree = "<group>"; };
+		785F74DF1D9F106E0096291F /* sinaloa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sinaloa.png; sourceTree = "<group>"; };
+		785F74E01D9F106E0096291F /* sonora.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sonora.png; sourceTree = "<group>"; };
+		785F74E11D9F106E0096291F /* tabasco.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabasco.png; sourceTree = "<group>"; };
+		785F74E21D9F106E0096291F /* tamaulipas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tamaulipas.png; sourceTree = "<group>"; };
+		785F74E31D9F106E0096291F /* tlaxcala.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tlaxcala.png; sourceTree = "<group>"; };
+		785F74E41D9F106E0096291F /* veracruz de ignacio de la llave.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "veracruz de ignacio de la llave.png"; sourceTree = "<group>"; };
+		785F74E51D9F106E0096291F /* yucatan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yucatan.png; sourceTree = "<group>"; };
+		785F74E61D9F106E0096291F /* zacatecas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zacatecas.png; sourceTree = "<group>"; };
+		785F75091D9F10D70096291F /* edo-mun.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "edo-mun.plist"; sourceTree = "<group>"; };
+		785F750B1D9F23BB0096291F /* ListaEstados.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListaEstados.swift; sourceTree = "<group>"; };
+		785F750D1D9F3E920096291F /* DetalleEstado.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetalleEstado.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +110,9 @@
 		785F74A61D9F0F9C0096291F = {
 			isa = PBXGroup;
 			children = (
+				785F750D1D9F3E920096291F /* DetalleEstado.swift */,
+				785F750B1D9F23BB0096291F /* ListaEstados.swift */,
+				785F74C41D9F10460096291F /* Assets */,
 				785F74B11D9F0F9C0096291F /* Practica1 */,
 				785F74B01D9F0F9C0096291F /* Products */,
 			);
@@ -60,7 +135,49 @@
 				785F74B91D9F0F9D0096291F /* Assets.xcassets */,
 				785F74BB1D9F0F9D0096291F /* LaunchScreen.storyboard */,
 				785F74BE1D9F0F9D0096291F /* Info.plist */,
+				785F75091D9F10D70096291F /* edo-mun.plist */,
 			);
+			path = Practica1;
+			sourceTree = "<group>";
+		};
+		785F74C41D9F10460096291F /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				785F74C61D9F106E0096291F /* aguascalientes.png */,
+				785F74C71D9F106E0096291F /* baja california.png */,
+				785F74C81D9F106E0096291F /* baja california sur.png */,
+				785F74C91D9F106E0096291F /* campeche.png */,
+				785F74CA1D9F106E0096291F /* chiapas.png */,
+				785F74CB1D9F106E0096291F /* chihuahua.png */,
+				785F74CC1D9F106E0096291F /* coahuila de zaragoza.png */,
+				785F74CD1D9F106E0096291F /* colima.png */,
+				785F74CE1D9F106E0096291F /* distrito federal.png */,
+				785F74CF1D9F106E0096291F /* durango.png */,
+				785F74D01D9F106E0096291F /* estado de mexico.png */,
+				785F74D11D9F106E0096291F /* guanajuato.png */,
+				785F74D21D9F106E0096291F /* guerrero.png */,
+				785F74D31D9F106E0096291F /* hidalgo.png */,
+				785F74D41D9F106E0096291F /* jalisco.png */,
+				785F74D51D9F106E0096291F /* mapa.png */,
+				785F74D61D9F106E0096291F /* michoacan de ocampo.png */,
+				785F74D71D9F106E0096291F /* morelos.png */,
+				785F74D81D9F106E0096291F /* nayarit.png */,
+				785F74D91D9F106E0096291F /* nuevo leon.png */,
+				785F74DA1D9F106E0096291F /* oaxaca.png */,
+				785F74DB1D9F106E0096291F /* puebla.png */,
+				785F74DC1D9F106E0096291F /* queretaro.png */,
+				785F74DD1D9F106E0096291F /* quintana roo.png */,
+				785F74DE1D9F106E0096291F /* san luis potosi.png */,
+				785F74DF1D9F106E0096291F /* sinaloa.png */,
+				785F74E01D9F106E0096291F /* sonora.png */,
+				785F74E11D9F106E0096291F /* tabasco.png */,
+				785F74E21D9F106E0096291F /* tamaulipas.png */,
+				785F74E31D9F106E0096291F /* tlaxcala.png */,
+				785F74E41D9F106E0096291F /* veracruz de ignacio de la llave.png */,
+				785F74E51D9F106E0096291F /* yucatan.png */,
+				785F74E61D9F106E0096291F /* zacatecas.png */,
+			);
+			name = Assets;
 			path = Practica1;
 			sourceTree = "<group>";
 		};
@@ -122,9 +239,43 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				785F74FE1D9F106E0096291F /* queretaro.png in Resources */,
+				785F74F81D9F106E0096291F /* michoacan de ocampo.png in Resources */,
+				785F750A1D9F10D70096291F /* edo-mun.plist in Resources */,
+				785F74F31D9F106E0096291F /* guanajuato.png in Resources */,
+				785F75081D9F106E0096291F /* zacatecas.png in Resources */,
+				785F74FA1D9F106E0096291F /* nayarit.png in Resources */,
+				785F74EE1D9F106E0096291F /* coahuila de zaragoza.png in Resources */,
+				785F74ED1D9F106E0096291F /* chihuahua.png in Resources */,
 				785F74BD1D9F0F9D0096291F /* LaunchScreen.storyboard in Resources */,
+				785F75041D9F106E0096291F /* tamaulipas.png in Resources */,
 				785F74BA1D9F0F9D0096291F /* Assets.xcassets in Resources */,
+				785F74EA1D9F106E0096291F /* baja california sur.png in Resources */,
+				785F74FD1D9F106E0096291F /* puebla.png in Resources */,
+				785F74F71D9F106E0096291F /* mapa.png in Resources */,
+				785F74F61D9F106E0096291F /* jalisco.png in Resources */,
+				785F74F91D9F106E0096291F /* morelos.png in Resources */,
+				785F75011D9F106E0096291F /* sinaloa.png in Resources */,
+				785F74E91D9F106E0096291F /* baja california.png in Resources */,
+				785F74F21D9F106E0096291F /* estado de mexico.png in Resources */,
+				785F74F51D9F106E0096291F /* hidalgo.png in Resources */,
+				785F74FF1D9F106E0096291F /* quintana roo.png in Resources */,
+				785F75071D9F106E0096291F /* yucatan.png in Resources */,
+				785F75061D9F106E0096291F /* veracruz de ignacio de la llave.png in Resources */,
+				785F74F11D9F106E0096291F /* durango.png in Resources */,
+				785F74FC1D9F106E0096291F /* oaxaca.png in Resources */,
+				785F74EB1D9F106E0096291F /* campeche.png in Resources */,
 				785F74B81D9F0F9D0096291F /* Main.storyboard in Resources */,
+				785F75001D9F106E0096291F /* san luis potosi.png in Resources */,
+				785F75021D9F106E0096291F /* sonora.png in Resources */,
+				785F74EC1D9F106E0096291F /* chiapas.png in Resources */,
+				785F75051D9F106E0096291F /* tlaxcala.png in Resources */,
+				785F74EF1D9F106E0096291F /* colima.png in Resources */,
+				785F75031D9F106E0096291F /* tabasco.png in Resources */,
+				785F74FB1D9F106E0096291F /* nuevo leon.png in Resources */,
+				785F74F41D9F106E0096291F /* guerrero.png in Resources */,
+				785F74E81D9F106E0096291F /* aguascalientes.png in Resources */,
+				785F74F01D9F106E0096291F /* distrito federal.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,6 +286,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				785F750C1D9F23BB0096291F /* ListaEstados.swift in Sources */,
+				785F750E1D9F3E920096291F /* DetalleEstado.swift in Sources */,
 				785F74B51D9F0F9C0096291F /* ViewController.swift in Sources */,
 				785F74B31D9F0F9C0096291F /* AppDelegate.swift in Sources */,
 			);
